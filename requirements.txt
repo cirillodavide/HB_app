@@ -1,9 +1,3 @@
-python
-dash
-dash_bootstrap_components
-pandas
-os
-sys
-random
-base64
-io
+dash==2.14.1
+dash_bootstrap_components==2.14.1
+pandas==1.1.5
